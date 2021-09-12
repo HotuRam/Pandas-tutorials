@@ -1,2 +1,2 @@
 # Pandas-tutorials
-learn pandas through this EDAs  
+I learn pandas through this EDAs  
